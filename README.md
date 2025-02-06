@@ -1,0 +1,2 @@
+# Swift Type Mismatch Bug
+This repository demonstrates a common Swift bug related to type mismatches in function arguments.  Swift's strong typing system is a major advantage, preventing many runtime errors. However, if you attempt to pass arguments of the wrong type to a function, the compiler will throw an error.  This example highlights that and provides a solution.
